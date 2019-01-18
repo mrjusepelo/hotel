@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reserve: one
+  room_value: 1.5
+  minibar_value: 1.5
+  discount: 1.5
+  total: 1.5
+
+two:
+  reserve: two
+  room_value: 1.5
+  minibar_value: 1.5
+  discount: 1.5
+  total: 1.5
